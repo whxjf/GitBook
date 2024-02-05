@@ -1,4 +1,4 @@
 # Table of contents
 
 * [Page](README.md)
-* [Page 1](page-1.md)
+* [如何自建中继](ru-he-zi-jian-zhong-ji.md)
